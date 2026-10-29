@@ -1,4 +1,5 @@
 
+<!-- Apartado 1 -->
 # ConsultorIA-Cristo.Tec
 
 **ConsultorIA-Cristo.Tec Consultoría tecnológica e inteligencia artificial** es una consultora tecnológica especializada en soluciones de inteligencia artificial para pequeñas y medianas empresas. Nuestro objetivo es ayudar a las empresas a mejorar sus procesos mediante herramientas de IA y, en el futuro, ofrecer servicios de gestión de servidores con funciones de inteligencia artificial.
@@ -7,6 +8,7 @@ Integrantes: Adrián y Jesus.
 
 *Siempre conectados, siempre inteligentes. 24/7.*
 
+<!-- Apartado 2 -->
 ## ¿Qué hacemos?
 
 En **ConsultorIA-Cristo.Tec** ayudamos a pequeñas y medianas empresas a mejorar su productividad mediante soluciones de inteligencia artificial, automatización y gestión de sistemas tecnológicos.
@@ -22,6 +24,7 @@ Nuestros principales servicios son:
 - **Seguridad informática:** aplicación de medidas básicas de protección para los sistemas, las aplicaciones y los datos.
 - **Mantenimiento y soporte técnico:** comprobación del funcionamiento de los sistemas instalados, solución de problemas y actualización de las herramientas de inteligencia artificial.
 
+<!-- Apartado 3 -->
 ## Clientes con los que trabajamos
 
 En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las necesidades de pequeñas y medianas empresas de diferentes sectores.
@@ -34,32 +37,14 @@ En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las
 | TECNOFÁBRICA | Industria | Automatización de procesos y gestión de servidores. |
 | COMERZIA | Comercio online | Integración de agentes de IA en la web y conexión con APIs. |
 
+<!-- Apartado 4 -->
 ## Elementos técnicos
 
 - **Agente de IA:** `agente-atencion-clientes` — Responde consultas automáticamente.
 - **API:** `https://api.empresa.com/v1/agents` — Conecta aplicaciones con agentes inteligentes.
 - **Configuración:** `config-agente.json` — Guarda los parámetros del agente.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- no me convence pero no se que poner -->
 
 
 
