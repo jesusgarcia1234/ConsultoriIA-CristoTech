@@ -59,7 +59,7 @@ En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las
 <!-- Apartado 6 -->
 ## Imagen o logotipo
 
-![Logotipo de ConsultorIA-Cristo.Tec](fotos/logo.png)
+![Logotipo de ConsultorIA-Cristo.Tec](fotos/Logo.png)
 
 
 
