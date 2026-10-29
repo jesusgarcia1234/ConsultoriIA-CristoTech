@@ -8,6 +8,18 @@ Integrantes: Adrián y Jesus.
 
 *Siempre conectados, siempre inteligentes. 24/7.*
 
+
+<!-- Índice -->
+## Índice
+
+1. [Presentación de la consultora](#consultoria-cristotеc)
+2. [¿Qué hacemos?](#qué-hacemos)
+3. [Clientes con los que trabajamos](#clientes-con-los-que-trabajamos)
+4. [Elementos técnicos](#elementos-técnicos)
+5. [Enlaces de interés](#enlaces-de-interés)
+6. [Imagen o logotipo](#imagen-o-logotipo)
+
+
 <!-- Apartado 2 -->
 ## ¿Qué hacemos?
 
