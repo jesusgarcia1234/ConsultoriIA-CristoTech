@@ -56,7 +56,10 @@ En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las
 - **Docker:** [Documentación de contenedores y APIs](https://docs.docker.com/reference/)
 - **Claude API:** [Documentación de la API de inteligencia artificial](https://platform.claude.com/docs/en/api/overview)
 
+<!-- Apartado 6 -->
+## Imagen o logotipo
 
+![Logotipo de ConsultorIA-Cristo.Tec](fotos/logo.png)
 
 
 
