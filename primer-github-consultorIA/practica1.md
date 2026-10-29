@@ -47,6 +47,15 @@ En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las
 <!-- no me convence pero no se que poner -->
 
 
+<!-- Apartado 5 -->
+## Enlaces de interés
+
+- **Ubuntu Server:** [Documentación oficial de servidores Linux](https://ubuntu.com/server/docs/)
+- **Microsoft:** [Documentación técnica de Microsoft](https://learn.microsoft.com/es-es/)
+- **OpenAI API:** [Documentación para integrar modelos de IA](https://developers.openai.com/api/docs/quickstart)
+- **Docker:** [Documentación de contenedores y APIs](https://docs.docker.com/reference/)
+- **Claude API:** [Documentación de la API de inteligencia artificial](https://platform.claude.com/docs/en/api/overview)
+
 
 
 
