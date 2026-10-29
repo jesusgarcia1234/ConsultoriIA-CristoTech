@@ -7,8 +7,6 @@ Integrantes: Adrián y Jesus.
 
 *Siempre conectados, siempre inteligentes. 24/7.*
 
-
-
 ## ¿Qué hacemos?
 
 En **ConsultorIA-Cristo.Tec** ayudamos a pequeñas y medianas empresas a mejorar su productividad mediante soluciones de inteligencia artificial, automatización y gestión de sistemas tecnológicos.
@@ -24,8 +22,6 @@ Nuestros principales servicios son:
 - **Seguridad informática:** aplicación de medidas básicas de protección para los sistemas, las aplicaciones y los datos.
 - **Mantenimiento y soporte técnico:** comprobación del funcionamiento de los sistemas instalados, solución de problemas y actualización de las herramientas de inteligencia artificial.
 
-
-
 ## Clientes con los que trabajamos
 
 En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las necesidades de pequeñas y medianas empresas de diferentes sectores.
@@ -37,6 +33,17 @@ En **ConsultorIA-Cristo.Tec** ofrecemos soluciones tecnológicas adaptadas a las
 | EDUCA 21 | Educación | Asistentes inteligentes y gestión de recursos tecnológicos. |
 | TECNOFÁBRICA | Industria | Automatización de procesos y gestión de servidores. |
 | COMERZIA | Comercio online | Integración de agentes de IA en la web y conexión con APIs. |
+
+## Elementos técnicos
+
+- **Agente de IA:** `agente-atencion-clientes` — Responde consultas automáticamente.
+- **API:** `https://api.empresa.com/v1/agents` — Conecta aplicaciones con agentes inteligentes.
+- **Configuración:** `config-agente.json` — Guarda los parámetros del agente.
+
+
+
+
+
 
 
 
