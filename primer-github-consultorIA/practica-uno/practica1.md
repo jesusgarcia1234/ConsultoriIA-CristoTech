@@ -120,3 +120,11 @@ También necesitaríamos conocer mejor el uso del NAS, los servicios en la nube 
 **En conclusión**, creemos que lo primero que debemos hacer es conocer bien la empresa y recopilar toda la información que nos falta.
 
 Con los datos que tenemos actualmente no podemos saber si su infraestructura está bien organizada o si necesita cambios. Por eso, antes de plantear cualquier solución, tenemos que entender cómo funciona TRIADA SPORT y cuáles son sus necesidades.
+
+
+
+
+
+
+
+# http://172.30.18.13:27016/
