@@ -151,3 +151,33 @@ Estas son algunas de las herramientas y plataformas que podemos utilizar para de
 Este es el logotipo de nuestra consultora, **ConsultorIA-CristoTech**:
 
 ![Logotipo de ConsultorIA-CristoTech](fotos/Logoh.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
