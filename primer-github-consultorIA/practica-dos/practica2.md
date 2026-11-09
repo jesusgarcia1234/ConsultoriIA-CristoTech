@@ -1,10 +1,9 @@
 
-# TRIADA SPORT — Presentación del cliente
+# TRIADA SPORT - Presentación del cliente
 
 **Consultora:** ConsultorIA-CristoTech  
 **Cliente:** TRIADA SPORT  
-**Actividad:** 2 — Análisis inicial del cliente  
-**Objetivo:** Conocer el funcionamiento de la empresa y comprender el encargo antes de realizar cualquier actuación técnica.
+**Actividad:** 2 - Presentación del cliente
 
 ---
 
@@ -12,45 +11,43 @@
 
 ### 1.1. ¿A qué se dedica TRIADA SPORT?
 
-TRIADA SPORT es una empresa dedicada a la **distribución de material deportivo** a tiendas y pequeños comercios. Su actividad consiste en trabajar con productos deportivos y gestionar su distribución a otros negocios, por lo que es importante coordinar correctamente la información comercial y logística.
+TRIADA SPORT es una empresa que se dedica a distribuir material deportivo a tiendas y pequeños comercios. Básicamente, se encarga de suministrar productos deportivos a otros negocios.
 
 ### 1.2. ¿Cuántos empleados tiene y dónde desarrolla su actividad?
 
-La empresa cuenta con **24 empleados** y dispone de una **oficina central** en la que se encuentran los departamentos administrativos, comerciales y de logística.
-
-No se indica que tenga otras sedes o instalaciones, por lo que ese dato tendría que confirmarse.
+La empresa tiene **24 empleados** y cuenta con una oficina central donde se encuentran los departamentos de administración, comercial y logística.
 
 ### 1.3. ¿Qué recursos y servicios informáticos utiliza actualmente?
 
-Según la información facilitada por TRIADA SPORT, la empresa dispone de los siguientes recursos:
+Actualmente, TRIADA SPORT dispone de los siguientes recursos:
 
-- **Ordenadores de trabajo:** utilizados por los empleados para sus tareas diarias.
-- **Red informática interna:** conecta los equipos y proporciona acceso a Internet.
-- **Dispositivo NAS:** permite guardar archivos compartidos entre los trabajadores.
-- **Servicios en la nube:** utilizados para diferentes necesidades de la empresa, aunque no se especifica cuáles.
-- **Página web corporativa:** alojada en un proveedor externo.
+- **Ordenadores:** los utilizan los empleados para realizar su trabajo diario.
+- **Red informática:** permite conectar los ordenadores y tener acceso a Internet.
+- **NAS:** sirve para almacenar archivos y compartirlos entre los trabajadores.
+- **Servicios en la nube:** utilizan diferentes servicios online, aunque no sabemos cuáles son.
+- **Página web:** tienen una web corporativa alojada en un servidor externo.
 
-La empresa ha ido ampliando esta infraestructura a medida que crecía, **sin seguir una planificación global** de sus necesidades informáticas.
+Además, sabemos que han ido ampliando sus equipos y servicios según los necesitaban, pero sin organizarlo todo desde el principio.
 
-### 1.4. ¿Qué funciones desempeña la informática en su funcionamiento diario?
+### 1.4. ¿Qué funciones desempeña la informática en esta empresa?
 
-Consideramos que la informática puede ser importante en las siguientes tareas:
+Creemos que la informática es bastante importante para el funcionamiento de TRIADA SPORT, por ejemplo:
 
-1. **Gestión administrativa:** elaborar documentos, organizar información y llevar el seguimiento de facturas o pedidos.
-2. **Actividad comercial:** comunicarse con tiendas y clientes, consultar productos y preparar presupuestos o pedidos.
-3. **Organización logística:** coordinar la información relacionada con existencias, preparación de pedidos y distribución de mercancías.
-4. **Trabajo compartido:** acceder a los archivos del NAS y colaborar entre departamentos.
-5. **Comunicación y presencia digital:** utilizar Internet, los servicios en la nube y la página web corporativa.
+1. **Administración:** para gestionar documentos, facturas y pedidos.
+2. **Comercial:** para comunicarse con los clientes, consultar productos y preparar presupuestos.
+3. **Logística:** para organizar los pedidos y llevar un control de los productos que tienen que distribuir.
+4. **Compartir archivos:** para que los empleados puedan acceder a documentos desde diferentes ordenadores.
+5. **Comunicación:** para utilizar el correo electrónico, Internet y otros servicios.
 
-Estos ejemplos describen posibles usos relacionados con su actividad; todavía necesitamos confirmar qué programas y procedimientos emplea realmente la empresa.
+Estos son algunos ejemplos de cómo podrían utilizar la informática, aunque tendríamos que preguntarles qué programas utilizan realmente.
 
 ### 1.5. ¿Por qué necesita una infraestructura informática bien organizada?
 
-Porque **24 empleados de varios departamentos dependen de recursos informáticos** para trabajar y compartir información.
+Porque tienen 24 empleados que necesitan utilizar ordenadores y compartir información entre diferentes departamentos.
 
-Una infraestructura organizada facilita la coordinación, permite conocer qué recursos se utilizan y ayuda a reducir problemas derivados de una ampliación sin planificación.
+Si la infraestructura no está bien organizada, pueden aparecer problemas de conexión, dificultades para encontrar archivos o errores que retrasen el trabajo.
 
-Además, como la empresa ha crecido, necesita conocer si su situación actual puede seguir acompañando ese crecimiento. También es importante comprender cómo se protegen y gestionan los datos que utiliza a diario.
+Además, como la empresa está creciendo, es importante que tengan sus recursos informáticos bien organizados para poder seguir trabajando correctamente en el futuro.
 
 ---
 
@@ -58,73 +55,76 @@ Además, como la empresa ha crecido, necesita conocer si su situación actual pu
 
 ### 2.1. ¿Qué espera conseguir TRIADA SPORT al contratar una consultora informática?
 
-TRIADA SPORT espera obtener una **visión clara del estado de su infraestructura informática**.
+La empresa quiere saber si los equipos, la red y los servicios que utiliza actualmente son suficientes para sus necesidades.
 
-Para ello, necesita conocer los recursos que tiene, cómo los utilizan sus empleados, qué necesidades existen y si la organización actual es adecuada para su actividad y crecimiento futuro.
+También quiere conocer cómo está organizada su infraestructura y si puede seguir funcionando correctamente a medida que la empresa crezca.
 
-En esta fase, el encargo consiste en **estudiar la situación y recopilar información**, no en instalar o modificar equipos y servicios.
+Nuestro trabajo como consultora sería estudiar su situación actual para entender qué necesita la empresa.
 
 ### 2.2. ¿Por qué ha decidido solicitar ayuda externa?
 
-Una posible razón es que la infraestructura se ha ampliado durante años sin una planificación conjunta.
+Creemos que han pedido ayuda porque su infraestructura informática ha ido creciendo sin una planificación general.
 
-Una consultora externa puede analizarla con una **visión global y especializada**, dedicando tiempo a estudiar las necesidades de todos los departamentos.
+Una consultora puede revisar todos los recursos y dar una opinión desde fuera de la empresa.
 
-Además, no sabemos si TRIADA SPORT dispone de personal informático propio ni qué conocimientos tiene. Por tanto, no debemos asumir que carece de él: sería una cuestión que tendríamos que preguntar.
+También puede ser que no tengan personal especializado para realizar este análisis, aunque eso no lo sabemos y tendríamos que preguntarlo.
 
 ### 2.3. ¿Qué información adicional nos gustaría conocer?
 
-Antes de comenzar el análisis, nos interesaría recopilar información como la siguiente:
+Antes de empezar, nos gustaría conocer algunos datos que todavía no nos han proporcionado:
 
-| Área | Información que necesitamos | Motivo |
-|---|---|---|
-| Empleados y departamentos | Cuántas personas trabajan en cada departamento y qué tareas realizan con los equipos. | Comprender cómo se utilizan los recursos informáticos. |
-| Ordenadores y programas | Número de equipos, sistemas operativos, aplicaciones y antigüedad aproximada. | Conocer el equipamiento disponible y su uso. |
-| Red y conexión | Cómo está organizada la red, qué dispositivos la forman y si se producen incidencias. | Entender cómo se conectan y trabajan los equipos. |
-| NAS y archivos | Capacidad, tipos de archivos, accesos de usuarios y forma de realizar copias de seguridad. | Comprender cómo se almacena y protege la información. |
-| Servicios en la nube | Qué servicios utiliza la empresa y para qué funciones. | Identificar las dependencias de servicios externos. |
-| Página web | Quién la administra, para qué se utiliza y si está relacionada con otros sistemas. | Conocer su papel en la actividad de la empresa. |
-| Soporte e incidencias | Quién resuelve los problemas informáticos y cuáles son los más frecuentes. | Detectar las principales dificultades del trabajo diario. |
-| Crecimiento previsto | Si se esperan más trabajadores, nuevos departamentos o cambios de actividad. | Comprender las necesidades futuras del cliente. |
+| Información | ¿Por qué queremos saberlo? |
+|---|---|
+| Número de ordenadores | Para saber cuántos equipos utilizan. |
+| Sistemas operativos | Para conocer con qué sistemas trabajan. |
+| Programas utilizados | Para saber qué aplicaciones necesitan los empleados. |
+| Organización de la red | Para entender cómo están conectados los equipos. |
+| Información del NAS | Para saber qué archivos guardan, quién puede acceder y si hacen copias de seguridad. |
+| Servicios en la nube | Para conocer qué servicios utilizan y para qué. |
+| Problemas habituales | Para saber si tienen fallos de conexión, equipos lentos u otros problemas. |
+| Crecimiento de la empresa | Para saber si tienen pensado contratar más empleados o ampliar sus instalaciones. |
 
-También sería conveniente hablar con responsables de los diferentes departamentos, ya que sus necesidades pueden ser distintas.
+También nos gustaría hablar con los responsables de cada departamento para conocer sus necesidades.
 
 ### 2.4. ¿Por qué es importante conocer al cliente antes de actuar?
 
-Porque **una misma solución no tiene por qué servir para todas las empresas**.
+Porque cada empresa trabaja de una manera diferente y tiene unas necesidades distintas.
 
-Antes de plantear cualquier cambio, debemos entender cómo trabaja TRIADA SPORT, qué recursos utiliza y qué dificultades experimenta.
+Si empezamos a realizar cambios sin conocer bien la empresa, podríamos hacer cosas que realmente no necesita o incluso provocar problemas.
 
-Actuar sin esa información podría llevarnos a interpretar mal el problema, interrumpir tareas importantes o dedicar recursos a cuestiones que no responden a las prioridades del cliente.
-
-Conocer primero su situación permite realizar un análisis más preciso y fundamentado.
+Por eso, primero tenemos que conocer cómo trabajan, qué recursos utilizan y qué quieren conseguir.
 
 ---
 
 ## 3. Primera impresión de la consultora
 
-Desde **ConsultorIA-CristoTech**, consideramos que TRIADA SPORT es una empresa en crecimiento cuya actividad depende de la coordinación entre los departamentos administrativo, comercial y logístico.
+Desde **ConsultorIA-CristoTech**, creemos que TRIADA SPORT es una empresa que ha crecido bastante y que necesita revisar cómo tiene organizada su informática.
 
-Por eso, nos parece especialmente importante comprender cómo utilizan los ordenadores, cómo comparten información y qué servicios digitales necesitan para su trabajo diario.
+Lo que más nos llama la atención es que han ido añadiendo equipos y servicios según los necesitaban, pero sin seguir una planificación general. Esto no significa que todo funcione mal, pero sí que sería conveniente conocer mejor cómo está organizado.
 
-El dato que más llama nuestra atención es que **la infraestructura se ha ampliado sin una planificación global**. Esto no demuestra por sí solo que existan fallos, pero sí justifica revisar cómo están organizados los recursos y si responden a las necesidades actuales de sus 24 empleados.
+También consideramos importante que tengan **24 empleados repartidos en diferentes departamentos**, ya que todos necesitan utilizar los recursos informáticos para realizar su trabajo.
 
-El encargo puede estar relacionado con distintas áreas de la informática:
+Las áreas de la informática que creemos que pueden estar relacionadas con este trabajo son:
 
-- **Sistemas operativos y equipos:** conocer los ordenadores y programas utilizados por los empleados.
-- **Redes informáticas:** comprender cómo se conectan los dispositivos y cómo acceden a Internet.
-- **Almacenamiento:** conocer el funcionamiento del NAS y la organización de los archivos compartidos.
-- **Seguridad informática:** revisar cómo se gestionan los accesos, la protección de datos y las copias de seguridad.
-- **Servicios en la nube:** identificar qué plataformas utiliza la empresa y para qué tareas.
-- **Aplicaciones y página web:** comprender qué herramientas digitales intervienen en su actividad.
-- **Soporte informático:** conocer cómo se gestionan las incidencias y quién se encarga del mantenimiento.
+- **Redes:** para conocer cómo están conectados los ordenadores y cómo funciona la conexión a Internet.
+- **Sistemas operativos:** para saber qué equipos y sistemas utilizan los empleados.
+- **Almacenamiento:** para conocer cómo utilizan el NAS y cómo comparten los archivos.
+- **Seguridad informática:** para saber cómo protegen la información, gestionan los permisos y realizan las copias de seguridad.
+- **Servicios en la nube:** para conocer qué plataformas utilizan y cómo trabajan con ellas.
+- **Aplicaciones web:** para conocer el funcionamiento de su página web y los servicios relacionados.
 
-Antes de sacar conclusiones, necesitaríamos un inventario básico de los equipos y programas, información sobre la red y el NAS, los servicios contratados, los procedimientos de acceso a los datos, las incidencias habituales y los planes de crecimiento.
+Antes de comenzar el análisis, nos gustaría saber cuántos ordenadores tienen, qué programas utilizan, cómo está organizada la red y si suelen tener problemas informáticos.
 
-También querríamos escuchar a los responsables y trabajadores para comprender qué necesidades consideran prioritarias.
+También necesitaríamos conocer mejor el uso del NAS, los servicios en la nube y si tienen alguna persona encargada del mantenimiento informático.
 
-**Nuestra valoración inicial** es que TRIADA SPORT necesita comenzar por una fase de conocimiento y análisis de su infraestructura.
+**En conclusión**, creemos que lo primero que debemos hacer es conocer bien la empresa y recopilar toda la información que nos falta.
 
-Con la información disponible todavía **no sería correcto decidir qué sistemas deben instalarse, sustituirse o modificarse**.
+Con los datos que tenemos actualmente no podemos saber si su infraestructura está bien organizada o si necesita cambios. Por eso, antes de plantear cualquier solución, tenemos que entender cómo funciona TRIADA SPORT y cuáles son sus necesidades.
 
-Primero debemos entender la empresa y concretar el alcance del encargo.
+
+
+
+
+
+
+# http://172.30.18.13:27016/
