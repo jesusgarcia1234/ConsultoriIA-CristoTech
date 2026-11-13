@@ -169,10 +169,10 @@ Este es el logotipo de nuestra consultora, **ConsultorIA-CristoTech**:
 
 
 
+http://server-cs-2smx.local:27016/
 
 
-
-#[# http://172.30.18.13:27016/](http://172.30.17.78:27016/)
+#[# http://172.30.18.13:27016/](http://172.30.17.78:27016/)](http://server-cs-2smx.local:27016/)
 
 
 
